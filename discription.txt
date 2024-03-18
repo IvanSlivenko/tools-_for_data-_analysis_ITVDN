@@ -1,0 +1,4 @@
+1.Запускаємо термінал
+2.pip install notebook
+3. jupython notebook
+
